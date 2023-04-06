@@ -15,7 +15,6 @@ Overall, this project demonstrates your skills in working with javaScript, react
 - Authentication
 - Send messages
 - Set profile picture
-- Ability to restore saved movies e
 - Works seamlessly on both mobile and desktop devices
 
 
