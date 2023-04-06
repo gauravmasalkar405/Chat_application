@@ -46,7 +46,8 @@ These instructions will get you a copy of the project up and running on your loc
 - Node js 
 - Mongo db 
 ## Demo
-Check out the live demo of the application at https://642d6ce7951d5929630eb6ca--dashing-kheer-b01011.netlify.app/ (while creating user account please upload profile picture which has size less than 200kb).
+- Check out the live demo of the application at https://642d6ce7951d5929630eb6ca--dashing-kheer-b01011.netlify.app/ (while creating user account please upload profile picture which has size less than 200kb).
+- For dummy login use dummy user as following username: mike white password: 123456789.
 ## Authors
 
 @gauravmasalkar405
